@@ -1,0 +1,11 @@
+Goal: Create a data set that contains data from web on a certain topic.
+Step1: 
+  For each website, create a JSON object containing
+    1) Images (urls or the images themselves) 
+    2) Sentences containing a few keywords related to the search topic 
+    3) The number of outgoing links. 
+    4) Website/post last-modified 
+Step 2: 
+  Flatten the output of part 1 by sentences and write to a CSV.
+
+
